@@ -1,4 +1,4 @@
-module github.com/hoffie/prometheus-filter-proxy
+module github.com/Stupnikov-NA/prometheus-filter-proxy
 
 go 1.21
 
